@@ -11,12 +11,12 @@ div.container {
   justify-content: center;
   text-align: center;
   height: 100vh;
-  padding-top: 24%;
+  padding-top: 15%;
 }
 
 div.qr-card {
   background-color: hsl(0, 0%, 100%);
-  border-radius: 15px;
+  border-radius: 20px;
   margin: 0 auto;
   padding: 5px;
   max-width: 325px;
@@ -45,7 +45,7 @@ p.card-text {
 img.qr-img {
   padding: 10px;
   margin: auto;
-  border-radius: 15px;
+  border-radius: 20px;
   max-width: 300px;
   max-height: 300px;
 }
